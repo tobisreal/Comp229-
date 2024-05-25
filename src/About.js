@@ -8,7 +8,7 @@ const About = () => {
   return (
     <div>
       <h1>About Me</h1>
-      <img src="" alt="Tobi Isreal" />
+      <img src="./photo.jpg" alt="Tobi Isreal" />
       <p>Hello! My name is Tobi Isreal. I am a web developer with a passion for creating beautiful and functional websites.</p>
     </div>
   );

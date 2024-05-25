@@ -9,16 +9,16 @@ const Projects = () => {
     <div>
       <h1>Projects</h1>
       <div>
-        <img src="path-to-project-image.jpg" alt="Project 1" />
-        <p>Project 1: Description of the project and your role.</p>
+        <img src="./project 1.png" alt="Project 1" />
+        <p>Project 1: health care Development</p>
       </div>
       <div>
-        <img src="path-to-project-image.jpg" alt="Project 2" />
-        <p>Project 2: Description of the project and your role.</p>
+        <img src="./project 2.png" alt="Project 2" />
+        <p>Project 2: a random project</p>
       </div>
       <div>
-        <img src="" alt="Project 3" />
-        <p>Project 3: Description of the project and your role.</p>
+        <img src="./project 3.png" alt="Project 3" />
+        <p>Project 3: some project</p>
       </div>
     </div>
   );
